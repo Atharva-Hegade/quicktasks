@@ -4,7 +4,7 @@ QuickTasks Pro is a cross-platform productivity mobile application built using *
 
 ---
 
-<h3>## Features</h3>h3>
+<h3>## Features</h3>
 - Add and manage daily tasks
 - Persistent storage using AsyncStorage
 - Bottom tab navigation (Tasks / Stats)
