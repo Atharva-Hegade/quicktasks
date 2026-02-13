@@ -46,7 +46,7 @@ QuickTasks Pro is a cross-platform productivity mobile application built using *
 ## Installation
 
 ```bash
-git clone https://github.com/<yourusername>/quicktasks-react-native.git
-cd quicktasks-react-native
+git clone https://github.com/<yourusername>/quicktasks.git
+cd quicktasks
 npm install
 npm start
