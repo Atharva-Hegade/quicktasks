@@ -32,12 +32,12 @@ QuickTasks Pro is a cross-platform productivity mobile application built using *
 
 ### Tasks Screen
 <p align="center">
-  <img src="assets/screenshots/tasks.png" width="250" />
+  <img src="assets/images/screenshots/tasks.png" width="250" />
 </p>
 
 ### Stats Screen
 <p align="center">
-  <img src="assets/screenshots/stats.png" width="250" />
+  <img src="assets/images/screenshots/stats.png" width="250" />
 </p>
 
 
