@@ -1,50 +1,52 @@
-# Welcome to your Expo app 👋
+# QuickTasks — React Native Productivity App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+QuickTasks Pro is a cross-platform productivity mobile application built using **React Native and Expo**, designed to help users manage daily tasks efficiently with persistent storage and multi-screen navigation.
 
-## Get started
+---
 
-1. Install dependencies
+## Features
+- Add and manage daily tasks
+- Persistent storage using AsyncStorage
+- Bottom tab navigation (Tasks / Stats)
+- Live productivity statistics
+- Clean mobile-first UI design
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## Tech Stack
+- React Native
+- Expo
+- TypeScript
+- AsyncStorage
+- React Context API
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## Screens
+- Tasks Screen – Create and manage tasks
+- Stats Screen – View productivity insights
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## App Preview
 
-## Get a fresh project
+### Tasks Screen
+<p align="center">
+  <img src="assets/screenshots/tasks.png" width="250" />
+</p>
 
-When you're ready, run:
+### Stats Screen
+<p align="center">
+  <img src="assets/screenshots/stats.png" width="250" />
+</p>
+
+
+---
+
+## Installation
 
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+git clone https://github.com/<yourusername>/quicktasks-react-native.git
+cd quicktasks-react-native
+npm install
+npm start
