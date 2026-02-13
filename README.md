@@ -4,7 +4,7 @@ QuickTasks Pro is a cross-platform productivity mobile application built using *
 
 ---
 
-## Features
+<h3>## Features</h3>h3>
 - Add and manage daily tasks
 - Persistent storage using AsyncStorage
 - Bottom tab navigation (Tasks / Stats)
@@ -13,7 +13,7 @@ QuickTasks Pro is a cross-platform productivity mobile application built using *
 
 ---
 
-## Tech Stack
+<h3>## Tech Stack</h3>
 - React Native
 - Expo
 - TypeScript
@@ -22,13 +22,13 @@ QuickTasks Pro is a cross-platform productivity mobile application built using *
 
 ---
 
-## Screens
+<h3>## Screens</h3>
 - Tasks Screen – Create and manage tasks
 - Stats Screen – View productivity insights
 
 ---
 
-## App Preview
+<h3>## App Preview</h3>
 
 ### Tasks Screen
 <p align="center">
@@ -43,10 +43,11 @@ QuickTasks Pro is a cross-platform productivity mobile application built using *
 
 ---
 
-## Installation
+<h3>## Installation</h3>
 
 ```bash
-git clone https://github.com/<yourusername>/quicktasks.git
+git clone https://github.com/Atharva-Hegade/quicktasks.git
 cd quicktasks
 npm install
 npm start
+```
